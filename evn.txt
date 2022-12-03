@@ -1,0 +1,2 @@
+user = root;
+passowrd = 123456;
